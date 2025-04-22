@@ -30,7 +30,7 @@ This project enables wireless control of a motor via Bluetooth using a PIC micro
 
 | Circuit Diagram | Configuration | Simulation |
 |:---------:|:----------:|:---------:|
-| ![Circuit](Img/Screenshot2025-02-13145512.png) | ![Configuration](Img/PC-B.png) | ![Simulation](Img/Excell.png) |
+| ![Circuit Diagram](Img/circuit_diagram.png) | ![Configuration](Img/Configuration.png) | ![Simulation](Img/Runtime.png) |
 
 ## Software Setup
 1. **Bluetooth Configuration**:
