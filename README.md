@@ -26,8 +26,11 @@ This project enables wireless control of a motor via Bluetooth using a PIC micro
   - `RC6/TX` → Bluetooth module RX
   - `RC7/RX` → Bluetooth module TX
   - Connect `VCC` (3.3V-5V) and `GND` to power the module
+## 🖼️ Preview Images
 
-![Circuit Diagram](https://via.placeholder.com/600x400?text=Bluetooth+Motor+Control+Circuit) *(Add actual diagram later)*
+| Circuit Diagram | Configuration | Simulation |
+|:---------:|:----------:|:---------:|
+| ![Circuit](Img/Screenshot2025-02-13145512.png) | ![Configuration](Img/PC-B.png) | ![Simulation](Img/Excell.png) |
 
 ## Software Setup
 1. **Bluetooth Configuration**:
