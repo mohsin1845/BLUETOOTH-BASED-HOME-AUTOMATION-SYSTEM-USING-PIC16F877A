@@ -39,7 +39,7 @@ This project enables wireless control of a motor via Bluetooth using a PIC micro
 
 2. **Microcontroller Programming**:
    ```bash
-   git clone https://github.com/your-repo/bluetooth-motor-control.git
+   git clone https://github.com/mohsin1845/BLUETOOTH-BASED-HOME-AUTOMATION-SYSTEM-USING-PIC16F877A.git
 - Open in MPLAB X IDE
 
 - Compile with XC8 compiler
